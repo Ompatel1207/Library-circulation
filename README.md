@@ -34,7 +34,6 @@ Use `performance.md` for detailed instructions on querying the database executio
 - **Report Outputs**: Sample results of your core library analytics queries and views.
 
 ## Contact Information
-Om Patel
 Patelom120704@gmail.com
 
 ---
