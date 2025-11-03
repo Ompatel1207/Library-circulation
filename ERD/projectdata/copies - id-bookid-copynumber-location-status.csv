@@ -1,0 +1,7 @@
+id,book_id,copy_number,location,status
+1,1,1,Shelf A1,available
+2,1,2,Shelf A2,loaned
+3,2,1,Shelf B1,available
+4,3,1,Shelf C1,available
+5,4,1,Shelf D2,reserved
+6,5,1,Shelf E3,lost
